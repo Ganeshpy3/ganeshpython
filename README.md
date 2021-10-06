@@ -1,3 +1,4 @@
+# Hi there! , I'm GANESH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" /> <img align="center" src="https://komarev.com/ghpvc/?username=ganeshpy3&color=red&style=plastic&label=VISITORS" />
 # About me
 - 👋 Hi, I’m @ganeshpython
 - 👀 I’m interested in Data Science
